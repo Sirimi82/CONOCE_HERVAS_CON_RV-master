@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">CONOCE HERVÁS</string>
+    <string name="info">INFORMACIÓN</string>
+    <string name="interes">PUNTOS DE INTERÉS</string>
+    <string name="alojamiento">ALOJAMIENTO</string>
+    <string name="rest">RESTAURACIÓN</string>
+    <string name="rutas">RUTAS</string>
+    <string name="llegar">CÓMO LLEGAR</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="cabecera">
+
+
+BIENVENID@
+
+
+\n\n\¿Quieres conocer Hervás?
+
+\n\n\Ven al norte de Extremadura, en la provincia de Cáceres, y conoce en profundidad la historia de este pueblo único: sus lugares de interés,
+sus rutas en plena naturaleza, con las que podrás relajarte y practicar senderismo. También podrás informarte sobre sus alojamientos y
+restaurantes, siempre de forma rápida y fácil, para hacer más cómoda tu visita y que no te pierdas nada.\n\
+
+
+
+    </string>
+    <string name="informacion">
+
+\nLa localidad de Hervás está situada en el norte de la provincia de Cáceres, en Extremadura, en pleno corazón del Valle del Ambroz.
+Cuenta con una población de 4.891 habitantes. Disfruta de clima continental suave, con veranos cálidos e inviernos fríos.
+Perteneció al Señorío de Béjar, en el reino de Castilla, y pasó a formar parte de la provincia de Cáceres a partir del
+30 de noviembre de 1833. Hervás pertenece a la Red de Juderías de España, junto a otras ciudades como Cáceres, Toledo, Córdoba,
+León o Barcelona.
+
+\n\n\Hervás surge en el siglo XII a partir de una ermita situada junto al rio Santihervás, de donde proviene su nombre, edificada
+por los templarios. Tras la expulsión de los templarios se edificó un castillo con la iglesia en su interior.
+Alrededor del castillo se asentaron diversas familias. Y en el siglo XV se estableció la comunidad hebrea junto al
+río Ambroz.
+
+\n\n\De su época medieval conservamos su barrio judío, declarado Conjunto Histórico-Artístico en el año 1969. La judería, situada en el
+noroeste de la población, es una mezcla de casas de adobe y madera de castaño, callejuelas laberínticas, estrechas y
+empedradas con cantos rodados del río Ambroz. Pasear por sus calles es sumergirse en una época pasada aunque viva y real. Se extiende
+desde La Plaza, lugar de encuentro entre cristianos y judíos hasta el río Ambroz y el Puente de la Fuente Chiquita,
+que tiene en su pretil la lápida con la imagen yacente de D. Alonso Sánchez, hidalgo de Plasencia.
+
+\n\n\Con la Expulsión de los judíos por los Reyes Católicos en 1492, muchas familias judías fueron hacia tierras portuguesas y
+otras se convirtieron al cristianismo formando la Cofradía conversa.
+Los judíos se dedicaron principalmente al ejercicio de zapatero, curtidor de piel, sastre, escribano y prestamista con intereses.
+En la actualidad perduran estas actividades,fundamentalmente las relacionadas con la madera, y algunos ejemplos de cuero, forja, vidrio...
+
+\n\n\Gracias a sus habitantes, que han sabido mantener y consevar sus raíces, podemos disfrutar de una de las juderías mejor conservadas
+de España.Para conmemorar ese pasado judío, todos los años se celebra la Fiesta de los Conversos.
+
+\n\n\También podrás disfrutar de su importante patrimonio natural. El monte Castañar Gallego es uno de los montes de castaño
+más importantes de Europa, con el reconocimiento medioambiental como Paisaje Protegido. Algunas rutas con encanto son la Chorrera,
+el Pinajarro, los Bosques del Ambroz o la pista de Heidi, verdadero referente para los amantes de la
+bicicleta y el senderismo.
+
+
+
+    </string>
+
+    <string name="comoLLegar">
+        \n\tPuede llegar por carretera:
+        \n\n\tMadrid: A-5, 289.3 km
+        \n\tCáceres: A-66, 113 km
+        \n\tSalamanca: A-66, 98.8 km
+        \n\tPlasencia: A-66, 38.5 km
+        \n\n\tTambién puede llegar por tren desde la estación de \n\tmedia y larga distancia de Plasencia situada a \n\t34.27 kilómetros de Hervás.\n
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
